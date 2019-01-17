@@ -20,4 +20,4 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = funkFunction()
+var theFunk = console.log(funkFunction())
